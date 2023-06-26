@@ -6,7 +6,7 @@ Ten projekt to system zarządzania pracownikami, napisany w języku Python. Pozw
 
 Aby uruchomić testy, wykonaj następujące kroki:
 
-1. Upewnij się, że masz zainstalowane wymagane biblioteki. Jeśli nie, możesz zainstalować je przy użyciu narzędzia pip: `pip install -r requirements.txt`
+1. Upewnij się, że masz zainstalowane wymagane biblioteki. Jeśli nie, możesz zainstalować je przy użyciu narzędzia pip: `pip install -r req.txt`
 
 2. Przejdź do katalogu, w którym znajduje się projekt.
 
